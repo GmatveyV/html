@@ -1,0 +1,72 @@
+/* h2 {
+    color: blue;
+} */
+
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: 10px;
+} */
+
+/* .greenBlock {
+    background-color: purple;
+}
+
+#newBlock {
+    background-color: red;
+} */
+
+/* div {
+    margin: 10px;
+    border: 1px solid red;
+}
+
+#header {
+    height: 80px;
+    background-color: chocolate;
+}
+
+#content {
+    height: 180px;
+    background-color: aqua;
+}
+
+#footer {
+    height: 100px;
+    background-color: brown;
+} 
+     */
+
+
+/* a:link {
+    color: rgb(242, 0, 255);
+    text-decoration: none;
+} 
+
+a:visited {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+} 
+
+a:hover {
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+
+a:active {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+input:hover {
+    border: 2px solid yellowgreen;
+} */
+
+body {
+    color: rgb(146, 127, 255);
+}
+
+p {
+    color: brown;
+}
